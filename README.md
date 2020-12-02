@@ -1,7 +1,7 @@
 sjcl
 ====
 
-[![Build Status](https://travis-ci.org/bitwiseshiftleft/sjcl.png)](https://travis-ci.org/bitwiseshiftleft/sjcl)
+[![Build Status](https://travis-ci.org/payshares/sjcl.png)](https://travis-ci.org/payshares/sjcl)
 
 Stanford Javascript Crypto Library
 
