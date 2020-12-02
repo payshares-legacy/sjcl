@@ -5,5 +5,5 @@ node_js:
   - "0.11"
   - "0.10"
   - "0.8"
-# 0.6 appears to be unreliable on Travis at the moment.
+# 0.6 is no longer supported
 #  - "0.6"
